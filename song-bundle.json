@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "title": "Tests",
-      "bgColor": "#00AA00",
+      "title": "Psaumes",
+      "bgColor": "#3C803D",
       "songs": [
         {
           "id": "1a",
@@ -108,7 +108,7 @@
     },
     {
       "title": "Hymns",
-      "bgColor": "#0000FF",
+      "bgColor": "#7BD2F2",
       "songs": [
         {
           "id": "151",
@@ -213,8 +213,18 @@
       ]
     },
     {
+      "title": "Cantiques Spirituels",
+      "bgColor": "#F9ED21",
+      "songs": []
+    },
+    {
+      "title": "Offrande et dîmne",
+      "bgColor": "#881E5B",
+      "songs": []
+    },
+    {
       "title": "Benediction",
-      "bgColor": "#DB4914",
+      "bgColor": "#936426",
       "songs": [
         {
           "id": "250",
