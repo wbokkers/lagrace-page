@@ -6,102 +6,192 @@
       "songs": [
         {
           "id": "1a",
-          "lyricsId": "1a-v1",
+          "lyricsId": "001 Bienheureux l'homme",
           "mp3Id": "1a-v1"
         },
         {
           "id": "1b",
-          "lyricsId": "1b-v1",
+          "lyricsId": "001 Ɲɛlɛxinyi na Adamadi nan bɛ",
           "mp3Id": "1a-v1"
         },
         {
           "id": "3",
-          "lyricsId": "",
+          "lyricsId": "003 Dawuda xa Ala maxandi Absolon xa fe ra",
           "mp3Id": ""
         },
         {
           "id": "6",
-          "lyricsId": "1a-v1",
+          "lyricsId": "006 Ne me punis pas",
           "mp3Id": "1a-v1"
         },
         {
           "id": "8",
-          "lyricsId": "1a-v1",
+          "lyricsId": "008 Ala xa nore",
           "mp3Id": "1a-v1"
         },
         {
-          "id": "19",
-          "lyricsId": "",
-          "mp3Id": ""
+          "id": "8",
+          "lyricsId": "0009 Je louerai l'Ëternel",
+          "mp3Id": "1a-v1"
         },
         {
           "id": "19a",
-          "lyricsId": "",
+          "lyricsId": "019A Ala xa sɛriyɛ",
           "mp3Id": ""
         },
         {
           "id": "19b",
-          "lyricsId": "",
+          "lyricsId": "019B Reçois favorablement",
           "mp3Id": ""
         },
         {
           "id": "22",
-          "lyricsId": "",
+          "lyricsId": "022 Oh, mon Dieu, pourquoi",
           "mp3Id": ""
         },
         {
           "id": "23",
-          "lyricsId": "",
+          "lyricsId": "023 Le Seigneur est mon berger",
           "mp3Id": ""
         },
         {
           "id": "25a",
-          "lyricsId": "",
+          "lyricsId": "025 Vers Toi mon Dieu",
           "mp3Id": ""
         },
         {
           "id": "25b",
-          "lyricsId": "",
+          "lyricsId": "025 Alatala n xaxili tixi i ra",
           "mp3Id": ""
         },
         {
           "id": "27",
-          "lyricsId": "",
+          "lyricsId": "027 Le Seigneur est ma lumière et mon salut",
           "mp3Id": ""
         },
         {
           "id": "36",
-          "lyricsId": "",
+          "lyricsId": "036 Merci Seigneur",
           "mp3Id": ""
         },
         {
           "id": "42",
-          "lyricsId": "",
+          "lyricsId": "042 Ala n wama lufe i yire",
+          "mp3Id": ""
+        },
+        {
+          "id": "47",
+          "lyricsId": "047 Battez des mains",
           "mp3Id": ""
         },
         {
           "id": "51a",
-          "lyricsId": "",
+          "lyricsId": "051 Le sacrifice qui plait a Dieu",
           "mp3Id": ""
         },
         {
           "id": "51b",
-          "lyricsId": "",
+          "lyricsId": "051B Ne me rejette pas loin",
           "mp3Id": ""
         },
         {
           "id": "51c",
-          "lyricsId": "",
+          "lyricsId": "051C Le sacrifice qui plaît à Dieu",
           "mp3Id": ""
         },
         {
           "id": "63",
-          "lyricsId": "",
+          "lyricsId": "063 Car Ta Bonté vaut Mieux que la Vie",
           "mp3Id": ""
         },
         {
-          "id": "64",
-          "lyricsId": "",
+          "id": "84",
+          "lyricsId": "084 Nous venons dans ta maison",
+          "mp3Id": ""
+        },
+        {
+          "id": "86",
+          "lyricsId": "086 J'ai soif de ta présence",
+          "mp3Id": ""
+        },
+        {
+          "id": "91",
+          "lyricsId": "091 Je demeure sous l'abri",
+          "mp3Id": ""
+        },
+        {
+          "id": "98",
+          "lyricsId": "098 Un cantique nouveau",
+          "mp3Id": ""
+        },
+        {
+          "id": "100",
+          "lyricsId": "100 Yo Ala fan",
+          "mp3Id": ""
+        },
+        {
+          "id": "115",
+          "lyricsId": "115 I nɛ baloxi i xa i Marigi tantu",
+          "mp3Id": ""
+        },
+        {
+          "id": "116",
+          "lyricsId": "116 J'aime l'Eternel",
+          "mp3Id": ""
+        },
+        {
+          "id": "118",
+          "lyricsId": "118 Lɔxɔɛ nan yi ki",
+          "mp3Id": ""
+        },
+        {
+          "id": "119",
+          "lyricsId": "119 I xa masenyi",
+          "mp3Id": ""
+        },
+        {
+          "id": "121",
+          "lyricsId": "121 N bara n ya rate geya kɔn na",
+          "mp3Id": ""
+        },
+        {
+          "id": "130",
+          "lyricsId": "130 O Éternel mon Dieu",
+          "mp3Id": ""
+        },
+        {
+          "id": "133a",
+          "lyricsId": "133 Ngaxakerenyie",
+          "mp3Id": ""
+        },
+        {
+          "id": "133b",
+          "lyricsId": "133 Oh, quel bonheur, quel douceur - La Grâce",
+          "mp3Id": ""
+        },
+        {
+          "id": "139a",
+          "lyricsId": "139A A na n ya ra",
+          "mp3Id": ""
+        },
+        {
+          "id": "139b",
+          "lyricsId": "139B Tu me connais",
+          "mp3Id": ""
+        },
+        {
+          "id": "145",
+          "lyricsId": "145 Ala senbe gbo",
+          "mp3Id": ""
+        },
+        {
+          "id": "146",
+          "lyricsId": "146 Louez l'Eternel",
+          "mp3Id": ""
+        },
+        {
+          "id": "150",
+          "lyricsId": "150 Won xa Ala tantu a xa daalise birin",
           "mp3Id": ""
         }
       ]
@@ -112,113 +202,384 @@
       "songs": [
         {
           "id": "151",
-          "lyricsId": "151-v1",
+          "lyricsId": "Ala duniɲa yailan nɛ",
           "mp3Id": "wrong-id"
         },
         {
           "id": "152",
-          "lyricsId": "wrong-id1",
+          "lyricsId": "152 Ala xa barka sa",
           "mp3Id": "wrong-id2"
         },
         {
           "id": "152",
-          "lyricsId": "",
+          "lyricsId": "153 Ala keren peti",
           "mp3Id": ""
         },
         {
           "id": "154",
-          "lyricsId": "",
+          "lyricsId": "154 Si mon peuple s’humilie",
           "mp3Id": ""
         },
         {
           "id": "155",
-          "lyricsId": "",
+          "lyricsId": "155 Saint, saint, saint",
           "mp3Id": ""
         },
         {
           "id": "156",
-          "lyricsId": "",
+          "lyricsId": "156 Peuple qui marchez",
           "mp3Id": ""
         },
         {
           "id": "157",
-          "lyricsId": "",
+          "lyricsId": "157 Emmanuel",
           "mp3Id": ""
         },
         {
           "id": "158",
-          "lyricsId": "",
+          "lyricsId": "158 Marikisi Mangɛ",
           "mp3Id": ""
         },
         {
           "id": "159",
-          "lyricsId": "",
+          "lyricsId": "159 Wo Ala xa kira rafala",
           "mp3Id": ""
         },
         {
           "id": "160",
-          "lyricsId": "",
+          "lyricsId": "160 Quel Sauveur merveilleux je possede",
           "mp3Id": ""
         },
         {
           "id": "161",
-          "lyricsId": "",
+          "lyricsId": "161 cherchez d’abord",
           "mp3Id": ""
         },
         {
           "id": "162",
-          "lyricsId": "",
+          "lyricsId": "162 Wo Ala xa mangɛya niini singe fen",
           "mp3Id": ""
         },
         {
           "id": "163",
-          "lyricsId": "",
+          "lyricsId": "163 Daɓɓee taho laamateeri",
           "mp3Id": ""
         },
         {
           "id": "164",
-          "lyricsId": "",
+          "lyricsId": "164 N tan bara wakili",
           "mp3Id": ""
         },
         {
           "id": "165",
-          "lyricsId": "",
+          "lyricsId": "165 Ture sa n ma lanpui kui -2",
           "mp3Id": ""
         },
         {
           "id": "166",
-          "lyricsId": "",
+          "lyricsId": "166 Taami nan ya",
           "mp3Id": ""
         },
         {
           "id": "167",
-          "lyricsId": "",
+          "lyricsId": "167 Allez dans le monde",
           "mp3Id": ""
         },
         {
           "id": "168",
-          "lyricsId": "",
+          "lyricsId": "168 Cantique de Marie",
           "mp3Id": ""
         },
         {
           "id": "169",
-          "lyricsId": "",
+          "lyricsId": "169 Cantique de Zacharie",
           "mp3Id": ""
         },
         {
           "id": "170",
-          "lyricsId": "170-v1",
+          "lyricsId": "170 Malɛkɛ xa Bɛɛti",
           "mp3Id": "1a-v1"
+        },
+        {
+          "id": "171",
+          "lyricsId": "171 Isa bara bari",
+          "mp3Id": ""
+        },
+        {
+          "id": "172",
+          "lyricsId": "172 Cantique de Siméon",
+          "mp3Id": ""
+        },
+        {
+          "id": "173",
+          "lyricsId": "173 O Dieu a tant aimé le monde",
+          "mp3Id": ""
+        },
+        {
+          "id": "174",
+          "lyricsId": "174 Dieu a tant aimé",
+          "mp3Id": ""
+        },
+        {
+          "id": "175",
+          "lyricsId": "175 I Ala xa nore toma",
+          "mp3Id": ""
+        },
+        {
+          "id": "176",
+          "lyricsId": "176 Adamadi findixi yunubitɔɛ ra",
+          "mp3Id": ""
+        },
+        {
+          "id": "177",
+          "lyricsId": "177 Prends ma vie",
+          "mp3Id": ""
+        },
+        {
+          "id": "178",
+          "lyricsId": "178 Wo a tongo",
+          "mp3Id": ""
+        },
+        {
+          "id": "179",
+          "lyricsId": "179 A banban ne wuri ma",
+          "mp3Id": ""
+        },
+        {
+          "id": "180",
+          "lyricsId": "180 Ala bara won xanu",
+          "mp3Id": ""
+        },
+        {
+          "id": "181",
+          "lyricsId": "181 Jésus Christ est Seigneur",
+          "mp3Id": ""
+        },
+        {
+          "id": "182",
+          "lyricsId": "182 Isa Marigi na a ra",
+          "mp3Id": ""
+        },
+        {
+          "id": "183",
+          "lyricsId": "183 Isa Barakatɔɛ",
+          "mp3Id": ""
+        },
+        {
+          "id": "184",
+          "lyricsId": "184 Wo sɛɛwa Marigi ra - Filipi 4",
+          "mp3Id": ""
+        },
+        {
+          "id": "185",
+          "lyricsId": "185 Iyo tɛmui bara a li",
+          "mp3Id": ""
+        },
+        {
+          "id": "186",
+          "lyricsId": "186 I ma goro",
+          "mp3Id": ""
         }
       ]
     },
     {
     	"title": "Cantiques Spirituels",
     	"bgColor": "#F9ED21",
-    	"songs": []
+    	"songs": [
+	        {
+	          "id": "249",
+	          "lyricsId": "249 Combien j'aime Jésus",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "250",
+	          "lyricsId": "250 Si je regarde",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "251",
+	          "lyricsId": "251 Il est tout-puissant",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "252",
+	          "lyricsId": "252 N Marigi Ala Sɛnbɛma",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "253",
+	          "lyricsId": "253 Ala tantu yaxa kisi na",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "254",
+	          "lyricsId": "254 Rédempteur du monde",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "255",
+	          "lyricsId": "255 Tu es là",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "256",
+	          "lyricsId": "256 Tel que je suis",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "257",
+	          "lyricsId": "257 Rédempteur admirable",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "258",
+	          "lyricsId": "258 O Seigneur, je viens vers Toi",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "259",
+	          "lyricsId": "259 Ô doulereux visage",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "260",
+	          "lyricsId": "260 A Toi la gloire",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "261",
+	          "lyricsId": "261 Marafanyi",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "262",
+	          "lyricsId": "262 Won xa duba Isa xili ra",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "263",
+	          "lyricsId": "263 Quel ami fidèle et tendre",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "264",
+	          "lyricsId": "264 Viens Saint-Esprit, Dieu créateur",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "265",
+	          "lyricsId": "265 Wo Ala tantu",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "266",
+	          "lyricsId": "266 Moi, j’ai décidé, de suivre Jésus",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "267",
+	          "lyricsId": "267 Sur ton église universelle",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "268",
+	          "lyricsId": "268 Marigi muxu na be",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "269",
+	          "lyricsId": "269 Beenun a xa fa",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "270",
+	          "lyricsId": "270 Ala Xaxili fa won ma",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "271",
+	          "lyricsId": "271 Grâce infinie",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "272",
+	          "lyricsId": "272 Won Marigi Isa faxa nɛ",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "273",
+	          "lyricsId": "273 Won na Ala nuwali sa",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "274",
+	          "lyricsId": "274 Quel repos céleste",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "275",
+	          "lyricsId": "275 Fe birin kui i xaxili ti Isa ra",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "276",
+	          "lyricsId": "276 Pardon, Seigneur, pardon",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "277",
+	          "lyricsId": "277 N seewaxi",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "278",
+	          "lyricsId": "278 Gloire, gloire, gloire,",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "279",
+	          "lyricsId": "279 Seigneur c’est Toi",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "280",
+	          "lyricsId": "280 Parce qu’Il vit",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "281",
+	          "lyricsId": "281 Sur le mont du Calvaire",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "282",
+	          "lyricsId": "282 O notre Dieu nous te prions",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "283",
+	          "lyricsId": "283 Seigneur, reçois",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "284",
+	          "lyricsId": "284 Keli i xa Marigi batu",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "285",
+	          "lyricsId": "285 Prends en ta main la mienne",
+	          "mp3Id": ""
+	        },
+	        {
+	          "id": "286",
+	          "lyricsId": "286 Fa, Isa, fa",
+	          "mp3Id": ""
+	        }
+    	]
     },
     {
-    	"title": "Offrande et d�mne",
+    	"title": "Offrande et dîmne",
     	"bgColor": "#881E5B",
     	"songs": []
     },
