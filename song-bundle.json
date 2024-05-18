@@ -30,11 +30,6 @@
           "mp3Id": "1a-v1"
         },
         {
-          "id": "8",
-          "lyricsId": "0009 Je louerai l'Ëternel",
-          "mp3Id": "1a-v1"
-        },
-        {
           "id": "19a",
           "lyricsId": "019A Ala xa sɛriyɛ",
           "mp3Id": ""
@@ -211,7 +206,7 @@
           "mp3Id": ""
         },
         {
-          "id": "152",
+          "id": "153",
           "lyricsId": "153 Ala keren peti",
           "mp3Id": ""
         },
@@ -588,8 +583,8 @@
       "bgColor": "#936426",
       "songs": [
         {
-          "id": "250",
-          "lyricsId": "",
+          "id": "Ala xa baraka sa",
+          "lyricsId": "Ala xa barka",
           "mp3Id": ""
         }
       ]
