@@ -2,7 +2,7 @@
   "categories": [
     {
       "title": "Bienvenue",
-      "bgColor": "#3C803D",
+      "bgColor": "#906326",
       "songs": [
         {
           "id": "Bienvenue",
@@ -11,8 +11,8 @@
         },
         {
           "id": "Nous venons",
-          "lyricsId": "02 Nous venons dans ta maison",
-          "mp3Id": "02 Nous venons dans ta maison"
+          "lyricsId": "003___084 Nous venons dans ta maison",
+          "mp3Id": "001___02 Nous venons dans ta maison JEM 1 10206"
         }
       ]
     },
@@ -28,8 +28,8 @@
       ]
     },
     {
-      "title": "Notre secours...",
-      "bgColor": "#A71D21",
+      "title": "Invocation et prière",
+      "bgColor": "#F48222",
       "songs": [
         {
           "id": "Seigneur Viens!",
@@ -144,7 +144,7 @@
         {
           "id": "84",
           "lyricsId": "004___084 Nous venons dans ta maison",
-          "mp3Id": "004___084 Nous venons dans ta maison"
+          "mp3Id": "001___02 Nous venons dans ta maison JEM 1 10206"
         },
         {
           "id": "86",
