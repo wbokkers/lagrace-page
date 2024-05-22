@@ -11,7 +11,7 @@
         },
         {
           "id": "Nous venons",
-          "lyricsId": "003___084 Nous venons dans ta maison",
+          "lyricsId": "004___084 Nous venons dans ta maison",
           "mp3Id": "001___02 Nous venons dans ta maison JEM 1 10206"
         }
       ]
@@ -245,12 +245,12 @@
         {
           "id": "152",
           "lyricsId": "005___152 Ala xa barka sa",
-          "mp3Id": ""
+          "mp3Id": "005___152 Ala xa barka"
         },
         {
           "id": "153",
           "lyricsId": "005___153 Ala keren peti",
-          "mp3Id": ""
+          "mp3Id": "005___153 Ala keren peti"
         },
         {
           "id": "154",
@@ -621,8 +621,8 @@
       "songs": [
         {
           "id": "Won munse fima",
-          "lyricsId": "Won munse fima",
-          "mp3Id": "Won munse fima"
+          "lyricsId": "008___001 Won munse fima",
+          "mp3Id": "008___001 Won munse fima"
         }
       ]
     },
@@ -631,9 +631,9 @@
       "bgColor": "#936426",
       "songs": [
         {
-          "id": "Ala xa baraka sa",
-          "lyricsId": "Ala xa barka",
-          "mp3Id": ""
+          "id": "Ala xa barka sa",
+          "lyricsId": "009___001 Ala xa barka",
+          "mp3Id": "005___152 Ala xa barka"
         }
       ]
     }
