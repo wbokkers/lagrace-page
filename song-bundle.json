@@ -119,6 +119,7 @@
         },
         {
           "id": "47",
+          "lyricsId": "004___047 Battez des mains",
           "mp3Id": "004___047 Battez des mains"
         },
         {
@@ -217,9 +218,14 @@
           "mp3Id": ""
         },
         {
-          "id": "145",
-          "lyricsId": "004___145 Ala senbe gbo",
+          "id": "145a",
+          "lyricsId": "004___145a Ala senbe gbo",
           "mp3Id": "004___145 Ala senbe gbo"
+        },
+        {
+          "id": "145b",
+          "lyricsId": "004___145B Saint Cène",
+          "mp3Id": ""
         },
         {
           "id": "146",
@@ -280,7 +286,7 @@
         {
           "id": "159",
           "lyricsId": "005___159 Wo Ala xa kira rafala",
-          "mp3Id": ""
+          "mp3Id": "005___159 Wo Ala xa kira rafala"
         },
         {
           "id": "160",
@@ -596,7 +602,7 @@
         {
           "id": "283",
           "lyricsId": "006___283 Seigneur, reçois",
-          "mp3Id": ""
+          "mp3Id": "006___283 Seigneur, reçois"
         },
         {
           "id": "284",
