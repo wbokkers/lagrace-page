@@ -44,6 +44,32 @@
       ]
     },
     {
+      "title": "Confession des péchés",
+      "bgColor": "#ABD037",
+      "songs": [
+        {
+          "id": "Le plus grand commandement",
+          "lyricsId": "003___001 Le plus grand commandement",
+          "mp3Id": ""
+        },
+        {
+          "id": "Ala xa seriye fu",
+          "lyricsId": "003___002 Ala xa seriye fu",
+          "mp3Id": ""
+        },
+        {
+          "id": "Les dix commandements",
+          "lyricsId": "003___003 Les dix commandements",
+          "mp3Id": ""
+        },
+        {
+          "id": "La loi dans le Nouveau Testament",
+          "lyricsId": "003___004 Les dix commandements dans NT",
+          "mp3Id": ""
+        }
+      ]
+    },
+    {
       "title": "Psaumes",
       "bgColor": "#3C803D",
       "songs": [
