@@ -648,9 +648,30 @@
       ]
     },
     {
+      "title": "Je confesse...",
+      "bgColor": "#A71D21",
+      "songs": [
+        {
+          "id": "Symbole des Apôtres Soso",
+          "lyricsId": "007___001 Symbole des apôtres Soso",
+          "mp3Id": ""
+        },
+        {
+          "id": "Symbole des Apôtres Français",
+          "lyricsId": "007___002 Symbole des apôtres Français",
+          "mp3Id": ""
+        }
+      ]
+    },
+    {
       "title": "Offrande et dîmne",
       "bgColor": "#881E5B",
       "songs": [
+        {
+          "id": "Pourquoi les offrandes?",
+          "lyricsId": "008___000 Pourquoi les offrandes",
+          "mp3Id": ""
+        },
         {
           "id": "Won munse fima",
           "lyricsId": "008___001 Won munse fima",
