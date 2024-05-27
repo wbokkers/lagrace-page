@@ -22,8 +22,8 @@
       "songs": [
         {
           "id": "Confession",
-          "lyricsId": "notre secours",
-          "mp3Id": ""
+          "lyricsId": "001___003 notre secours",
+          "mp3Id": "001___003 notre secours"
         }
       ]
     },
@@ -33,8 +33,8 @@
       "songs": [
         {
           "id": "Seigneur Viens!",
-          "lyricsId": "seigneur viens, viens",
-          "mp3Id": ""
+          "lyricsId": "002___001 seigneur viens, viens",
+          "mp3Id": "002___001 seigneur viens, viens"
         },
         {
           "id": "Invocation - Fa won ma",
@@ -136,7 +136,7 @@
         {
           "id": "36",
           "lyricsId": "004___036 Merci Seigneur",
-          "mp3Id": ""
+          "mp3Id": "004___36 Merci Seigneur"
         },
         {
           "id": "42",
@@ -151,7 +151,7 @@
         {
           "id": "51a",
           "lyricsId": "004___051A Aie pitié de moi",
-          "mp3Id": ""
+          "mp3Id": "004___051A Aie pitié de moi"
         },
         {
           "id": "51b",
@@ -201,7 +201,7 @@
         {
           "id": "116",
           "lyricsId": "004___116 J'aime l'Eternel",
-          "mp3Id": ""
+          "mp3Id": "004___116 J'aime l'Eternel"
         },
         {
           "id": "118",
@@ -211,7 +211,7 @@
         {
           "id": "119",
           "lyricsId": "004___119 I xa masenyi",
-          "mp3Id": "004___119 I xa masenyi"
+          "mp3Id": "004___119 Ta parole est une lampe"
         },
         {
           "id": "121",
@@ -251,7 +251,7 @@
         {
           "id": "145b",
           "lyricsId": "004___145B Saint Cène",
-          "mp3Id": ""
+          "mp3Id": "004___145b Sainte Cène"
         },
         {
           "id": "146",
@@ -352,17 +352,17 @@
         {
           "id": "167",
           "lyricsId": "005___167 Allez dans le monde",
-          "mp3Id": ""
+          "mp3Id": "005___167 Allez dans le monde"
         },
         {
           "id": "168",
           "lyricsId": "005___168 Cantique de Marie",
-          "mp3Id": ""
+          "mp3Id": "005___168 Cantique de Marie"
         },
         {
           "id": "169",
           "lyricsId": "005___169 Cantique de Zacharie",
-          "mp3Id": ""
+          "mp3Id": "005___169 Cantique de Zacharie"
         },
         {
           "id": "170",
@@ -377,7 +377,7 @@
         {
           "id": "172",
           "lyricsId": "005___172 Cantique de Siméon",
-          "mp3Id": ""
+          "mp3Id": "005___172 Cantique de Simeon"
         },
         {
           "id": "173",
@@ -533,7 +533,7 @@
         {
           "id": "264",
           "lyricsId": "006___264 Viens Saint-Esprit, Dieu créateur",
-          "mp3Id": ""
+          "mp3Id": "006___264 Viens Saint-Esprit, Dieu créateur"
         },
         {
           "id": "265",
@@ -548,7 +548,7 @@
         {
           "id": "267",
           "lyricsId": "006___267 Sur ton église universelle",
-          "mp3Id": ""
+          "mp3Id": "006___267 Sur ton église universelle"
         },
         {
           "id": "268",
@@ -654,7 +654,7 @@
         {
           "id": "Symbole des Apôtres Soso",
           "lyricsId": "007___001 Symbole des apôtres Soso",
-          "mp3Id": ""
+          "mp3Id": "007___001 Symbole des apôtres Soso"
         },
         {
           "id": "Symbole des Apôtres Français",
