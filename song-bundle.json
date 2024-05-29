@@ -6,8 +6,8 @@
       "songs": [
         {
           "id": "Bienvenue",
-          "lyricsId": "01 Bienvenue",
-          "mp3Id": "01 Bienvenue"
+          "lyricsId": "001___01 Bienvenue",
+          "mp3Id": "001___01 Bienvenue"
         },
         {
           "id": "Nous venons",
@@ -32,12 +32,12 @@
       "bgColor": "#F48222",
       "songs": [
         {
-          "id": "Seigneur Viens!",
+          "id": "Seigneur Viens",
           "lyricsId": "002___001 seigneur viens, viens",
           "mp3Id": "002___001 seigneur viens, viens"
         },
         {
-          "id": "Invocation - Fa won ma",
+          "id": "Fa won ma",
           "lyricsId": "006___270 Ala Xaxili fa won ma",
           "mp3Id": "006___270 Ala Xaxili fa won ma"
         }
@@ -55,7 +55,7 @@
         {
           "id": "Ala xa seriye fu",
           "lyricsId": "003___002 Ala xa seriye fu",
-          "mp3Id": ""
+          "mp3Id": "003___002 Ala xa seriye fu"
         },
         {
           "id": "Les dix commandements",
